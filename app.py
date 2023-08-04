@@ -52,7 +52,7 @@ def reset_total():
 	global TOTAL  # Declare TOTAL as global to modify the global variable
 
 	# Reset TOTAL to 0 every 60 seconds
-	if TOTAL>20:
+	if TOTAL<10:
 		playaudio("Take rest for a while")
 		popupmsg("Take rest for a while as your blink count is less than average...!!!!!")
 	TOTAL=0
