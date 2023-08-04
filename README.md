@@ -3,7 +3,8 @@
 Blinking is a reflex, which means your body does it automatically. Babies and children only blink about two times per minute. By the time you reach adolescence that increases to 14 to 17 times per minute. 
 Detecting eye blinks is important for instance in systems that monitor a human operator vigilance, e.g. driver drowsiness, in systems that warn a computer user staring at the screen without blinking for a long time to prevent the dry eye and the computer vision syndromes, in human-computer interfaces that ease communication for disabled people. There should be an application that monitors to let the user know that he might get strained.
 
-
+## Demo Video
+https://drive.google.com/file/d/1b_hrTwjrwaee92QzqEWEJ2rkCG6SlvQx/view?usp=sharing
 
 ## Import Necessary Libraries
 The first step is usually importing the libraries that will be needed in the program.
